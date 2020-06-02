@@ -2,9 +2,6 @@
 Project for Structural Bioinformatics course at Skoltech
 
 
-## Evolution of reconstruction
+## Evolution of encoding
 
-![alt text](https://github.com/bakirillov/neurovalidation/blob/master/animation.gif "Wang et al, 2019")
-
-
-![alt text](https://github.com/bakirillov/neurovalidation/blob/master/animation.gif "My attempt")
+![alt text](https://github.com/bakirillov/structbio_2020/blob/master/pics/Both.gif "Evolution of the encodings")
